@@ -23,3 +23,9 @@ The Badge was issued by Microsoft on behalf of successfully passing the MTA 98-3
 # My Badge
 
 ![alt text](https://github.com/web-codegrammer/Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382-/blob/main/MTA%20JS%20Badge/mta-introduction-to-programming-using-javascript-certified-2020.png)
+
+## License 
+
+[MIT](https://github.com/web-codegrammer/Simple-Discord-bot/blob/main/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
