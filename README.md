@@ -2,6 +2,22 @@
 
 > MTA 98-382 Javascript Certification Examination Badge 
 
+The Badge was issued by Microsoft on behalf of successfully passing the MTA 98-382 Javascrpt Programming Certification Examination which i had given in the month of October 2020.
+
+# By gaining this badge now i have Validated Skills in the following areas:
+
+- Program with JavaScript Operators, Methods, and Keywords
+
+- Program with Variables, Data Types, and Functions
+
+- Implement and Analyze Decisions and Loops
+
+- Interact with the Document Object Model
+
+- Interact with HTML Forms
+
+
+
 [Badge Link](https://www.youracclaim.com/badges/869f3d7c-af71-4f17-aa89-47543a431c5c/public_url)
 
 # My Badge
