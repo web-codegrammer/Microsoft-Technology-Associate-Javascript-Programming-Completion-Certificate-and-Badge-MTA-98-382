@@ -1,8 +1,8 @@
 # Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382
 
-> MTA 98-382 Javascript Certification Examination Certificate & Badge 
+> MTA 98-382 Javascript Examination Certificate & Badge 
 
-The Badge was issued by Microsoft on behalf of successfully passing the MTA 98-382 Javascrpt Programming Certification Examination which i had given in the month of October 2020.
+The Certificate & Badge was issued by Microsoft on behalf of successfully passing the MTA 98-382 Javascrpt Programming Certification Examination which i had given in the month of October 2020.
 
 # By gaining this badge now i have Validated Skills in the following areas:
 
