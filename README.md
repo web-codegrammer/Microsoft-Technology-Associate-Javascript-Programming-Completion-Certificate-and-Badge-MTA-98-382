@@ -17,12 +17,14 @@ The Badge was issued by Microsoft on behalf of successfully passing the MTA 98-3
 - Interact with HTML Forms
 
 
-## You can Directly view my MTA Exam Certification Here 👉👉 [Certificate Link]()
+## You can Directly view my MTA Exam Certification Here 👉👉 [Certificate Link](https://drive.google.com/file/d/1gSE6WLSui8fL4txbz6ekeHT5ulh3_wmp/view?usp=sharing)
+
+
 ## You can Directly view my claimed Badge Here 👉👉 [Badge Link](https://www.youracclaim.com/badges/869f3d7c-af71-4f17-aa89-47543a431c5c/public_url)
 
 # My Exam Certification
 
-![alt text]()
+![alt text](https://github.com/web-codegrammer/Microsoft-Technology-Associate-Javascript-Programming-Completion-Certificate-and-Badge-MTA-98-382-/blob/main/MTA%20JS%20Certificate/MTA%20Certification-img.png)
 
 # My Badge
 
