@@ -22,7 +22,7 @@ The Certificate & Badge was issued by Microsoft on behalf of successfully passin
 
 ## You can Directly view my claimed Badge Here 👉👉 [Badge Link](https://www.youracclaim.com/badges/869f3d7c-af71-4f17-aa89-47543a431c5c/public_url)
 
-# My Exam Certification
+# My Exam Certificate
 
 ![alt text](https://github.com/web-codegrammer/Microsoft-Technology-Associate-Javascript-Programming-Completion-Certificate-and-Badge-MTA-98-382-/blob/main/MTA%20JS%20Certificate/MTA%20Certification-img.png)
 
@@ -34,4 +34,4 @@ The Certificate & Badge was issued by Microsoft on behalf of successfully passin
 
 [MIT](https://github.com/web-codegrammer/Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382-/blob/main/LICENSE)
 
-Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2021
