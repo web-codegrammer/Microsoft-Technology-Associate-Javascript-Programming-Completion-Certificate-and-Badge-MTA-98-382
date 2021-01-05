@@ -1,4 +1,4 @@
-# Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382
+# Microsoft-Technology-Associate-Javascript-Programming-Completion-Certificate-and-Badge-MTA-98-382
 
 > MTA 98-382 Javascript Examination Certificate & Badge 
 
