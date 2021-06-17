@@ -2,7 +2,7 @@
 
 > MTA 98-382 Javascript Examination Certificate & Badge 
 
-The Certificate & Badge was issued by Microsoft on behalf of successfully passing the MTA 98-382 Javascrpt Programming Certification Examination which i had given in the month of October 2020.
+The Certificate & Badge was issued by Microsoft on behalf of successfully passing the MTA 98-382 Javascript Programming Certification Examination which i had given in the month of October 2020.
 
 # By gaining this certification & badge now i have Validated Skills in the following areas:
 
